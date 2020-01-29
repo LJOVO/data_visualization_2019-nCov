@@ -117,7 +117,7 @@ def map_map():
         WordCloud(init_opts=opts.InitOpts(width="600"))
         .add("", confirmedCount, word_size_range=[20, 200], shape=SymbolType.DIAMOND)
         .set_global_opts(title_opts=opts.TitleOpts(title=""),
-                         visualmap_opts=opts.VisualMapOpts(max_=500, range_color=["yellow", "red"]))
+                         visualmap_opts=opts.VisualMapOpts(max_=500, range_color=["gold", "red"]))
     )
     piec = (        # add pie chart 1
         Pie()
@@ -128,7 +128,7 @@ def map_map():
             rosetype="area",
             )
         .set_global_opts(
-            title_opts=opts.TitleOpts(title="Pie-Radius"),
+            title_opts=opts.TitleOpts(title=" "),
             legend_opts=opts.LegendOpts(
                 orient="vertical", pos_top="15%", pos_left="2%"
             ),
@@ -144,7 +144,7 @@ def map_map():
 
             )
         .set_global_opts(
-            title_opts=opts.TitleOpts(title="Pie-Radius"),
+            title_opts=opts.TitleOpts(title=" "),
             legend_opts=opts.LegendOpts(
                 orient="vertical", pos_top="15%", pos_left="2%"
             ),
