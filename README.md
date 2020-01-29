@@ -12,16 +12,16 @@
   
 Example_图例:  
 map_地图:  
-[image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/map.png)  
+![image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/map.png)  
   
 wordcould_词云:  
-[image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/wordcould.png)  
+![image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/wordcould.png)  
   
 pie_饼图1:  
-[image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/pie1.png)
+![image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/pie1.png)
   
 pie_饼图2:  
-[image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/pie2.png)
+![image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/pie2.png)
 
 
 
