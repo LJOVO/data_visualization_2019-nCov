@@ -12,7 +12,7 @@
   
 Example_图例:  
 map_地图:  
-![image](https://github.com/LJOVO/raw/master/data_visualization_2019-nCov/tree/master/examples/map.png)  
+![image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/map.png)  
   
 wordcould_词云:  
 ![image](https://github.com/LJOVO/data_visualization_2019-nCov/tree/master/examples/wordcould.png)  
